@@ -18,5 +18,5 @@ I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National 
 <img alt="kanishkaditya's github stats" src="https://github-readme-stats.vercel.app/api?username=kanishkaditya&show_icons=true&theme=merko"  > </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kanishkaditya-shukla-8031221ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Nabin-Nath" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kanishkaditya-shukla-8031221ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="kanishkaditya-shukla" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
