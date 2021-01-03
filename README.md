@@ -16,7 +16,7 @@ I'm a Machine learning Enthusiast  👨‍💻, Currently in second year at Nati
 
 ### Some Stats About Kanishkaditya (Public Only)
 <p align="center" >
-<img alt="kanishkaditya's github stats" src="https://github-readme-stats.vercel.app/api?username=kanishkaditya&show_icons=true&theme=darcula"  > </p>
+<img alt="kanishkaditya's github stats" src="https://github-readme-stats.vercel.app/api?username=kanishkaditya&show_icons=true&theme=buefy"  > </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kanishkaditya-shukla-8031221ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="kanishkaditya-shukla" height="25" width="25" /></a>&nbsp;&nbsp;
