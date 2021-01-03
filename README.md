@@ -1,7 +1,7 @@
 <h1 align="Center">  Hi, There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Kanishkaditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 
-I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
+I'm a Machine learning Enthusiast  👨‍💻, Currently in second year at National Institute of Technology, Hamirpur. 👨‍🎓
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkaditya" alt="kanishkaditya" /> </p>
 
@@ -11,6 +11,7 @@ I'm a Electronics Enthusiast  👨‍💻, Currently in second year at National 
 - 🤔 I’m looking for help in learning about Machine learning. 
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklakanishkaditya12@gmail.com)](mailto:shuklakanishkaditya12@gmail.com)
+- ⚡ Fun fact about me: I'm a Chess enthusiast too.
 
 
 ### Some Stats About Kanishkaditya (Public Only)
