@@ -13,6 +13,7 @@ I'm a Machine learning Enthusiast  👨‍💻, Currently in second year at Nati
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklakanishkaditya12@gmail.com)](mailto:shuklakanishkaditya12@gmail.com)
 - ⚡ Fun fact about me: I'm a Chess enthusiast too.
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 
 ### Some Stats About Kanishkaditya (Public Only)
 <p align="center" >
