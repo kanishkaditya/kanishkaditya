@@ -22,3 +22,8 @@ I'm a Machine learning Enthusiast  👨‍💻, Currently in second year at Nati
 <p align="center">
 <a href="https://www.linkedin.com/in/kanishkaditya-shukla-8031221ba/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="kanishkaditya-shukla" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
+
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img src="https://www.flaticon.com/svg/vstatic/svg/2172/2172891.svg?token=exp=1612045060~hmac=f62fde95d7712ed6d3dcd7cdfaa86dd0" alt="Machine Learning" width="40" height="40"/>
+  <a href="https://flutter.dev/docs/development/ui/widgets-intro" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+</p>
